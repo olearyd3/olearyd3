@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David O'Leary (@olearyd3)
-- 🌱 I’m currently a 4th Year M.A.I. Computer Engineering student in Trinity College Dublin!
-- 💞️ I currently code using C/C++, HTML/CSS, Node.js, Vue.js, React Native and more!
+- 🌱 I’m currently a 5th Year M.A.I. Computer Engineering student in Trinity College Dublin!
+- 💞️ I have experience using code using C/C++, JavaScript, TypeScript, React.js, HTML/CSS and more!
 - 📫 You can contact me via email at olearydavid.m@gmail.com
 - 💼 You can find my LinkedIn at https://www.linkedin.com/in/david-o-leary-7536b3195/
 
