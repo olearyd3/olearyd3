@@ -1,6 +1,8 @@
 - 👋 Hi, I’m David O'Leary (@olearyd3)
-- 🌱 I’m currently a 5th Year M.A.I. Computer Engineering student in Trinity College Dublin!
-- 💞️ I have experience using C/C++, JavaScript, TypeScript, React.js, HTML/CSS and more!
+- 👨🏼‍💻 I’m currently a full-time software engineer at Arista Networks
+- 💞️ I have lots of experience writing software using Python, JavaScript/TypeScript, React, HTML, CSS/LESS, Playwright, C/C++ and a lot more
+- 🎓 I graduated from Trinity College Dublin in 2024 with a distinction in my B.A. and M.A.I. in Computer Engineering
+- 💫 My dissertation involved using diffusion models to generate dance animations based on audio inputs
 - 📫 You can contact me via email at olearydavid.m@gmail.com
 - 💼 You can find my LinkedIn at https://www.linkedin.com/in/david-o-leary-7536b3195/
 
